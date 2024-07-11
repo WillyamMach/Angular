@@ -1,34 +1,46 @@
 {
-    "pensamentos": [
-        {
-            "id": 1,
-            "conteudo": "Ola como voce vai",
-            "autoria": "Willyam",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 2,
-            "conteudo": "Ola como voce vai",
-            "autoria": "Joao",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 3,
-            "conteudo": "Ola como voce vai",
-            "autoria": "Gabriel",
-            "modelo": "modelo3"
-        },
-        {
-            "id": 4,
-            "conteudo": "Ola como voce vai",
-            "autoria": "Gabriel",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 5,
-            "conteudo": "I love make web sites and discover new technologys. I was studing php, but i have to know kotlin, so bye bye php, see you soon my brother. Kotlin is very interesting, cause we can use it to make web aplications on android ambient. it will be funny understand this!",
-            "autoria": "Willyam",
-            "modelo": "modelo1"
-          }
-    ]
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Ola como voce vai",
+      "autoria": "Willyam",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Ola como voce vai",
+      "autoria": "Joao",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "Ola como voce vai",
+      "autoria": "Gabriel",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "4",
+      "conteudo": "Ola como voce vai",
+      "autoria": "Gabriel",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "5",
+      "conteudo": "I love make web sites and discover new technologys. I was studing php, but i have to know kotlin, so bye bye php, see you soon my brother. Kotlin is very interesting, cause we can use it to make web aplications on android ambient. it will be funny understand this!",
+      "autoria": "Willyam",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "6c3b",
+      "conteudo": "HAHAHAHAHAHAHAAH",
+      "autoria": "Willyam",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "300c",
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Devdsaddasdasd",
+      "modelo": "modelo3"
+    }
+  ]
 }
