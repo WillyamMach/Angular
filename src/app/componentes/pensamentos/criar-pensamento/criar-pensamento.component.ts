@@ -11,6 +11,7 @@ import { Router } from '@angular/router';
 export class CriarPensamentoComponent implements OnInit {
 
   pensamento: Pensamento = {
+    id: 1,
     conteudo: 'Aprendendo Angular',
     autoria: 'Dev',
     modelo: 'modelo1'

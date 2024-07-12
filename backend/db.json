@@ -1,18 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": "1",
-      "conteudo": "Ola como voce vai",
-      "autoria": "Willyam",
-      "modelo": "modelo1"
-    },
-    {
-      "id": "2",
-      "conteudo": "Ola como voce vai",
-      "autoria": "Joao",
-      "modelo": "modelo2"
-    },
-    {
       "id": "3",
       "conteudo": "Ola como voce vai",
       "autoria": "Gabriel",
