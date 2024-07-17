@@ -11,6 +11,8 @@ export class ListarPensamentoComponent implements OnInit {
 
   listaPensamentos: Pensamento[] = [];
   paginaAtual: number = 1;
+  // será utilizado para verificar a paginação, caso haja mais de 6 pensamentos.
+  haMaisPensamentos: boolean = true;
 
   constructor(private service: PensamentoService) { }
 
@@ -19,5 +21,16 @@ export class ListarPensamentoComponent implements OnInit {
       this.listaPensamentos = listaPensamentos
     })
   }
+
+  CarregarMaisPensamentos() {
+    this.service.listar(++this.paginaAtual)
+    .subscribe(listaPensamentos => {
+      this.listaPensamentos.push(...listaPensamentos);
+      if(!listaPensamentos.length) {
+        this.haMaisPensamentos = false;
+      }
+    })  
+  }
+
 }
 

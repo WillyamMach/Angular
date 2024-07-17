@@ -1,0 +1,10 @@
+<!-- Caso se tenha pensamentos mostrará a div abaixo, senao motrará o ng-template -->
+<div class="center" *ngIf="haMaisPensamentos; else semMaisPensamentos">
+    <button class="botao carregar-mais">
+        Carregar mais
+    </button>
+</div>
+<!-- caso a não houver mais pensamentos mostrará essa informação -->
+<ng-template #semMaisPensamentos>
+    <p class="center">Não há mais pensamentos para exibir</p>
+</ng-template>

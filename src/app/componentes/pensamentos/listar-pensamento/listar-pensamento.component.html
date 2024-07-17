@@ -9,6 +9,9 @@
     </div>
   </div>
 </section>
+<!-- pego a propriedade que foi settada no componente do botao e atribuo ele a um valor de uma classe -->
+<app-botao-carregar-mais [haMaisPensamentos]="haMaisPensamentos"
+(click)="CarregarMaisPensamentos()"></app-botao-carregar-mais>
 <ng-template #semPensamentos>
   <div class="ff-inter sem-pensamentos">
     <p>Ainda não há pensamentos cadastrados!</p>
