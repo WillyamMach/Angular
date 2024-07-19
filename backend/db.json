@@ -10,14 +10,14 @@
       "conteudo": "Ola como vai",
       "autoria": "dsa",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "ads",
       "autoria": "sdsa",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": 5
     },
     {
@@ -38,7 +38,7 @@
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 8
     },
     {
