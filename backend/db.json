@@ -3,91 +3,105 @@
     {
       "conteudo": "Ola como vai",
       "autoria": "dsa",
-      "modelo": "modelo2",
+      "favorito": true,
       "id": 3
     },
     {
       "conteudo": "Ola como vai",
       "autoria": "dsa",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "ads",
       "autoria": "sdsa",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "hello",
       "autoria": "gello",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "hello",
       "autoria": "gello",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 9
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 10
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 11
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 12
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 13
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 14
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 15
     },
     {
       "conteudo": "hihihihih",
       "autoria": "hihihhihihi",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 16
     },
     {
       "conteudo": "dsadsadd",
       "autoria": "dsdsadsadsaa",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 17
     }
   ]
